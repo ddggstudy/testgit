@@ -12,3 +12,14 @@ git fetch t
 git commit -m ""
 
 git push t
+
+
+git mv a b
+
+git rm a
+
+git config -l
+
+git config --global
+
+git config --unset
