@@ -1,0 +1,14 @@
+git init
+touch a.txt
+git config user.name "liukunyu"
+git config user.email "bmw746@163.com"
+
+git add a.txt
+
+git remote add t url
+git pull t master
+git fetch t
+
+git commit -m ""
+
+git push t
