@@ -29,13 +29,13 @@ int main()
 		printf("ret = %d, errno=%d\n", ret, errno); 
 		return -1;
 	} 
+	
+	sleep(5);
 
 	char buff[1024] = "aaaaaaaaaaa";
 	int n = send(fd, buff, sizeof(buff), 0);	
 	printf("n=%d\n", n);
 
-	sleep(10);
-	n = send(fd, buff, sizeof(buff), 0);	
 	close(fd);
 }
 
