@@ -5,8 +5,12 @@
 #include <errno.h>
 #include <unistd.h>
 
-int main()
+const char *ip = "192.168.5.102";
+
+int main(int argc, char* argv[])
 {
+	if(argc == 2)
+		ip = argv[1];
 	int fd;
 	fd = socket(AF_INET, SOCK_STREAM, 0);
 	printf("fd = %d\n", fd);
@@ -20,7 +24,7 @@ int main()
 	struct sockaddr_in addr;
 	addr.sin_family = AF_INET;
 	addr.sin_port = htons(18888);
-	addr.sin_addr.s_addr = inet_addr("192.168.137.70");
+	addr.sin_addr.s_addr = inet_addr(ip);
 	
 	int ret;
 	ret = connect(fd, (struct sockaddr *)&addr, sizeof(struct sockaddr));

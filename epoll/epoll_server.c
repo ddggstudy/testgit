@@ -9,8 +9,10 @@
 const char *ip = "192.168.137.70";
 const short port = 18888;
 
-int main()
+int main(int argc, char* argv[])
 {
+	if(argc == 2)
+		ip = argv[1];
 	int ret;
 	int efd;
 	
