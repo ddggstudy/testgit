@@ -1,0 +1,6708 @@
+efd = 3
+listenfd = 4
+bind ret = 0
+cnt = 0
+cnt = 0
+cnt = 0
+cnt = 0
+cnt = 0
+cnt = 0
+cnt = 1
+new client comming
+cfd=5, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=6, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=7, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=8, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=9, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=10, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=11, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+new client comming
+cfd=12, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=13, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=14, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=15, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=16, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=17, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=18, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=19, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=20, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=21, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=22, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=23, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=24, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=25, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=26, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=27, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=28, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=29, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=30, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=31, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=32, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=33, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=34, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=35, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=36, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=37, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=38, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=39, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=40, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+new client comming
+cfd=41, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=42, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=43, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=44, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=45, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=46, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=47, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=48, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=49, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=50, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=51, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=52, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+new client comming
+cfd=53, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=54, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+new client comming
+cfd=55, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=56, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=57, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=58, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=59, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=60, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=61, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+new client comming
+cfd=62, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=63, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=64, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=65, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=66, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=67, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=68, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=69, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=70, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=71, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=72, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=73, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=74, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=75, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=76, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=77, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=78, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=79, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=80, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=81, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=82, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=83, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=84, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=85, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=86, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=87, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=88, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=89, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=90, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=91, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=92, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=93, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=94, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=95, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=96, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=97, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=98, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=99, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=100, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=101, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=102, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=103, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=104, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=105, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=106, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=107, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=108, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=109, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=110, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=111, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=112, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=113, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=114, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=115, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=116, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=117, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=118, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=119, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=120, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=121, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=122, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=123, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=124, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=125, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=126, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=127, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=128, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=129, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=130, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=131, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=132, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=133, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=134, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=135, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=136, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=137, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=138, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=139, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=140, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=141, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=142, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=143, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=144, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=145, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=146, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=147, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=148, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=149, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=150, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=151, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=152, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=153, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=154, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=155, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=156, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=157, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=158, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=159, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=160, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=161, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=162, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=163, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=164, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=165, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=166, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=167, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=168, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=169, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=170, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=171, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=172, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=173, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=174, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=175, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=176, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=177, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=178, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=179, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=180, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=181, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=182, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=183, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=184, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=185, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=186, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=187, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=188, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=189, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=190, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=191, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=192, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=193, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=194, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=195, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=196, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=197, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=198, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=199, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=200, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=201, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=202, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=203, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=204, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=205, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=206, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=207, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=208, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=209, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=210, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=211, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=212, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=213, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=214, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=215, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=216, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=217, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=218, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=219, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=220, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=221, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=222, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=223, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=224, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=225, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=226, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=227, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=228, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=229, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=230, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=231, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=232, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=233, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=234, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=235, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=236, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=237, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=238, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=239, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=240, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=241, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=242, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=243, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=244, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=245, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=246, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=247, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=248, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=249, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=250, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=251, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=252, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=253, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=254, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=255, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=256, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=257, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=258, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=259, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=260, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=261, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=262, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=263, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=264, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=265, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=266, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=267, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=268, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=269, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=270, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=271, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=272, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=273, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=274, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=275, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=276, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=277, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=278, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=279, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=280, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=281, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=282, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=283, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=284, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=285, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=286, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=287, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=288, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=289, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=290, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=291, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=292, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=293, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=294, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=295, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=296, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=297, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=298, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=299, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=300, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=301, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=302, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=303, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=304, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=305, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=306, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=307, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=308, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=309, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=310, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=311, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=312, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=313, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=314, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=315, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=316, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=317, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=318, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=319, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=320, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=321, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=322, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=323, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=324, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=325, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=326, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=327, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=328, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=329, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=330, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=331, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=332, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=333, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=334, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=335, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=336, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=337, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=338, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=339, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=340, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=341, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=342, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=343, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=344, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=345, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=346, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=347, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=348, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=349, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=350, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=351, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=352, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=353, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=354, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=355, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=356, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=357, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=358, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=359, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=360, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=361, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=362, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=363, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=364, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=365, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=366, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=367, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=368, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=369, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=370, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=371, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=372, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=373, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=374, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=375, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=376, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=377, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=378, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=379, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=380, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=381, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=382, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=383, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=384, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=385, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=386, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=387, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=388, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=389, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=390, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=391, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=392, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=393, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=394, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=395, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=396, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=397, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=398, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=399, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=400, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=401, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=402, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=403, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=404, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=405, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=406, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=407, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=408, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=409, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=410, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=411, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=412, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=413, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=414, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=415, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=416, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=417, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=418, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=419, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=420, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=421, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=422, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=423, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=424, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=425, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=426, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=427, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=428, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=429, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=430, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=431, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=432, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=433, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=434, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=435, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=436, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=437, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=438, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=439, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=440, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=441, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=442, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=443, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=444, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=445, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=446, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=447, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=448, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=449, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=450, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=451, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=452, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=453, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=454, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=455, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=456, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=457, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=458, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=459, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=460, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=461, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=462, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=463, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=464, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=465, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=466, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=467, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=468, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=469, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=470, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=471, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=472, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=473, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=474, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=475, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=476, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=477, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=478, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=479, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=480, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=481, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=482, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=483, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=484, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=485, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=486, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=487, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=488, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=489, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=490, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=491, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=492, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=493, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=494, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=495, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=496, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=497, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=498, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=499, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=500, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=501, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=502, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=503, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=504, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=505, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=506, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=507, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=508, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=509, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=510, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=511, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=512, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=513, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=514, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=515, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=516, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=517, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=518, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=519, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=520, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=521, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=522, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=523, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=524, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=525, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=526, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=527, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=528, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=529, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=530, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=531, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=532, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=533, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=534, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=535, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=536, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=537, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=538, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=539, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=540, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=541, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=542, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=543, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=544, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=545, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=546, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=547, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=548, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=549, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=550, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=551, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=552, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=553, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=554, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=555, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=556, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=557, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=558, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=559, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=560, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=561, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=562, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=563, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=564, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=565, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=566, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=567, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=568, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=569, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=570, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=571, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=572, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=573, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=574, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=575, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=576, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=577, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=578, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=579, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+new client comming
+cfd=580, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=581, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=582, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=583, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=584, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=585, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=586, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=587, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=588, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=589, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=590, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=591, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=592, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=593, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=594, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=595, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=596, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=597, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=598, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=599, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=600, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=601, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=602, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=603, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=604, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=605, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=606, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=607, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=608, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=609, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=610, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=611, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=612, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=613, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=614, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=615, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=616, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=617, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=618, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=619, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=620, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=621, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=622, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=623, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=624, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=625, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=626, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=627, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=628, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=629, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=630, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=631, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=632, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=633, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=634, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=635, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=636, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=637, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=638, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=639, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=640, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=641, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=642, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=643, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=644, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=645, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=646, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=647, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=648, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=649, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=650, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=651, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=652, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=653, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=654, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=655, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=656, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=657, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=658, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=659, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=660, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=661, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=662, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=663, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=664, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=665, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=666, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=667, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=668, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=669, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=670, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=671, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=672, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=673, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=674, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=675, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=676, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=677, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=678, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=679, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=680, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=681, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=682, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=683, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=684, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=685, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=686, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=687, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=688, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=689, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=690, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=691, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=692, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=693, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=694, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=695, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=696, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=697, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=698, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=699, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=700, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=701, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=702, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=703, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=704, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=705, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=706, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=707, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=708, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=709, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=710, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=711, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=712, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=713, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=714, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=715, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=716, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=717, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=718, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=719, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=720, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=721, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=722, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=723, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=724, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=725, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=726, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=727, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=728, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=729, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=730, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=731, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=732, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=733, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=734, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=735, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=736, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=737, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=738, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=739, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=740, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=741, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=742, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=743, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=744, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=745, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=746, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=747, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=748, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=749, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=750, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=751, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=752, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=753, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=754, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=755, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=756, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=757, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=758, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=759, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=760, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=761, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=762, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=763, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=764, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=765, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=766, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=767, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=768, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 0
+cnt = 1
+new client comming
+cfd=769, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=770, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=771, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+new client comming
+cfd=772, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=773, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=774, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=775, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=776, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=777, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=778, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=779, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=780, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=781, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=782, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=783, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=784, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=785, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=786, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=787, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=788, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=789, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=790, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=791, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=792, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=793, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=794, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=795, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=796, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=797, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=798, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=799, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=800, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=801, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+new client comming
+cfd=802, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=803, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=804, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=805, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=806, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=807, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=808, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=809, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=810, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=811, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=812, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=813, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 0
+cnt = 1
+new client comming
+cfd=814, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 0
+cnt = 1
+new client comming
+cfd=815, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=816, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=817, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=818, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+new client comming
+cfd=819, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=820, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=821, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=822, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=823, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=824, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=825, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=826, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=827, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=828, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=829, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 4
+n=0, buff=
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 10
+n=0, buff=
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 3
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=0, buff=
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=0, buff=
+n=0, buff=
+n=0, buff=
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 4
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 5
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 6
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 5
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+new client comming
+cfd=830, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+new client comming
+cfd=831, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 43
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=832, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+new client comming
+cfd=833, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=0, buff=
+cnt = 1
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=834, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+new client comming
+cfd=835, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=836, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 5
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 5
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 4
+n=0, buff=
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 24
+n=0, buff=
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=837, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=838, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+new client comming
+cfd=839, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 5
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 3
+n=0, buff=
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=840, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+new client comming
+cfd=841, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=842, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+new client comming
+cfd=843, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=0, buff=
+n=0, buff=
+n=0, buff=
+cnt = 9
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=844, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 4
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+new client comming
+cfd=845, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 4
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=846, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=847, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+new client comming
+cfd=848, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 6
+n=0, buff=
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 4
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=849, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=850, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 3
+new client comming
+cfd=851, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 4
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=852, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=853, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+new client comming
+cfd=854, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=855, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=856, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=857, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 4
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=858, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=859, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 4
+new client comming
+cfd=860, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=861, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=862, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=863, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+new client comming
+cfd=864, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+new client comming
+cfd=865, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+new client comming
+cfd=866, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+new client comming
+cfd=867, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 10
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 4
+n=0, buff=
+new client comming
+cfd=868, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=869, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=870, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+new client comming
+cfd=871, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=872, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=873, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 5
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 7
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=874, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+cnt = 4
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 4
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=875, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 3
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+new client comming
+cfd=876, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=877, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=878, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+new client comming
+cfd=879, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=880, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=881, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=882, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=883, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 5
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+new client comming
+cfd=884, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+new client comming
+cfd=885, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=886, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 6
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=887, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+new client comming
+cfd=888, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=889, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 3
+n=0, buff=
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=890, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 4
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=891, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=892, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 4
+new client comming
+cfd=893, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=0, buff=
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 0
+cnt = 1
+new client comming
+cfd=894, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=895, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 3
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=896, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+new client comming
+cfd=897, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=898, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=899, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=900, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=0, buff=
+cnt = 1
+new client comming
+cfd=901, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+new client comming
+cfd=902, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+new client comming
+cfd=903, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+new client comming
+cfd=904, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=905, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=1024, buff=aaaaaaaaaaa
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+n=0, buff=
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 2
+n=0, buff=
+new client comming
+cfd=906, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=907, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 1
+new client comming
+cfd=908, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=909, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=0, buff=
+cnt = 2
+new client comming
+cfd=910, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new client comming
+cfd=911, errno=0
+xxxxxxxxxxxxxxx ret = 0, errno=0
+cnt = 1
+n=1024, buff=aaaaaaaaaaa
+cnt = 1
+new cli
