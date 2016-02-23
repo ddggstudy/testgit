@@ -1,0 +1,2 @@
+http://www.cnblogs.com/Bozh/archive/2012/04/23/2466951.html
+actor_model    for   epoll
